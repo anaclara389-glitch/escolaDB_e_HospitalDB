@@ -1,4 +1,4 @@
--- Active: 1779300064094@@mysql-1c959a5e-estudante-af5b.h.aivencloud.com@18971@EscolaDB
+-- Active: 1779904746551@@mysql-1c959a5e-estudante-af5b.h.aivencloud.com@18971@EscolaDB
 use EscolaDB;
 -- quest 1
 select * from Alunos;
